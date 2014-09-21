@@ -12,6 +12,10 @@ Pythagoraan lause on toiminnallinen tehtävä, jonka tekemiseen oppilas tarvitse
 
 Toimintaohjeet oppilaalle on PDF:n ensimmäisellä sivulla. Opettajalle on ohjeita kolmannella sivulla.
 
+![page 1](png/p1.png) 
+![page 2](png/p2.png) 
+![page 3](png/p3.png) 
+
 ## Muokkaus
 
 Muokkaa SVG-tiedostoa [Inkscapella](http://www.inkscape.org). Jokaisella sivulla on oma tasonsa (Layer). Kaikki sivut on piilotettu, joten käytä Layers-työkalua saadaksesi sivun näkyviin.
