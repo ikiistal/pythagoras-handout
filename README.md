@@ -35,13 +35,19 @@ pdftk:n saat Debian-pohjaisissa Linuxeissa asennettua komennolla
 sudo apt-get install pdftk
 ```
 
+Muita tarpeellisia paketteja:
+```
+sudo apt-get install xmlstarlet inkscape
+```
+
 ### Nopein tapa tuottaa Inkscape SVG:stä yksi PDF
 
 Toimii Linuxissa, johon on asennettu xmlstarlet, pdftk ja inkscape:
 
 1. Lataa skripti, jolla saa tasot (layer) yksitellen PDF:iksi
-- tekijä: https://gist.github.com/petrelharp/bbb0bacf999a412870af
+( lähde: https://gist.github.com/petrelharp/bbb0bacf999a412870af )
 2. aja skripti kaikille tasoille (page1, page2, page3)
+3. Lopuksi yhdistä PDF-tiedostot yhdeksi 3-sivuiseksi PDF:ksi
 
 ```
 wget -nc https://gist.githubusercontent.com/petrelharp/bbb0bacf999a412870af/raw/77b0a9f4c2a71733d1d750a61d5d15f4be596cb3/export-inkscape-layers-svg.sh
