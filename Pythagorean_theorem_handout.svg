@@ -172,15 +172,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16"
-     inkscape:cx="196.44401"
-     inkscape:cy="814.52422"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="254.15553"
+     inkscape:cy="497.94452"
      inkscape:document-units="mm"
-     inkscape:current-layer="g3430"
+     inkscape:current-layer="page1"
      showgrid="true"
      units="mm"
-     inkscape:window-width="1920"
-     inkscape:window-height="1148"
+     inkscape:window-width="1152"
+     inkscape:window-height="812"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1">
@@ -559,7 +559,7 @@
              y="77.952736"
              x="673.22833"
              id="tspan3395"
-             sodipodi:role="line">sivu 1 / 2</tspan></text>
+             sodipodi:role="line">paperi 1 / 2</tspan></text>
       </g>
     </g>
   </g>
@@ -647,7 +647,7 @@
              y="77.952736"
              x="673.22833"
              id="tspan3395-7"
-             sodipodi:role="line">sivu 2 / 2</tspan></text>
+             sodipodi:role="line">paperi 2 / 2</tspan></text>
       </g>
       <g
          id="g4224">
@@ -724,7 +724,8 @@
      style="display:inline"
      inkscape:label="page3"
      id="page3"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
     <g
        id="g4269" />
     <g
@@ -2414,7 +2415,7 @@
              sodipodi:role="line"
              id="tspan3578"
              x="673.22833"
-             y="77.952736">sivu 2 / 2</tspan></text>
+             y="77.952736">paperi 2 / 2</tspan></text>
       </g>
       <g
          id="g3580">
@@ -2808,7 +2809,7 @@
              sodipodi:role="line"
              id="tspan3548"
              x="673.22833"
-             y="77.952736">sivu 1 / 2</tspan></text>
+             y="77.952736">paperi 1 / 2</tspan></text>
       </g>
     </g>
   </g>
